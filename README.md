@@ -1,16 +1,13 @@
-## Hi there 👋
+Hey there! 👋 I'm Tushar! 😄
 
-<!--
-**STusharADS/STusharADS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👀 I'm super fascinated by awesome websites and apps! 🤩
 
-Here are some ideas to get you started:
+🌱 I'm currently on a learning journey with web development and diving into programming languages like Java, C, Go, and Python! 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💞️ I'm eager to team up on Android app projects! 🧑‍🤝‍🧑
+
+📫 You can reach me via email at tusharshaw03@gmail.com 📧
+
+😄 Pronouns: he/him
+
+⚡️ Other passions include exploring the cosmos (Astronomy 🌌), tinkering with Arduino and ESP32 💡, and launching model rockets! 🚀
