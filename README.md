@@ -2,7 +2,7 @@ Hey there! 👋 I'm Tushar! 😄
 
 👀 I'm super fascinated by awesome websites and apps! 🤩
 
-🌱 I'm currently on a learning journey with web development (Html,CSS,JS) and diving into programming languages like Java, C, Go, and Python!
+🌱 I'm currently on a learning journey with web and app development (React ,TailwindCSS, React native expo) and diving into programming languages like Java, C, Go, and Python!
 
 💞️ I'm eager to team up on creative fun projects ! 🧑‍🤝‍🧑
 
