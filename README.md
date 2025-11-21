@@ -8,6 +8,4 @@ Hey there! 👋 I'm Tushar! 😄
 
 📫 You can reach me via email at tusharshaw03@gmail.com or +919123304755 📧
 
-😄 Pronouns: he/him
-
 ⚡️ Other passions include exploring the cosmos (Astronomy 🌌), tinkering with Arduino and ESP32 💡, and launching model rockets! 🚀
