@@ -9,7 +9,7 @@
 
 <p align="left">⚡️ Other passions include exploring the cosmos (Astronomy 🌌), tinkering with Arduino and ESP32 💡, and launching model rockets! 🚀</p>
 
-<p align="left">Yup, I am a multilingual Person ;)</p>
+<!-- <p align="left">Yup, I am a multilingual Person ;)</p> -->
 
 <!-- <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
