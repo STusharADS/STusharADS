@@ -8,6 +8,7 @@
 <p align="left"> You can reach me via email at <a href="mailto:tusharshaw03@gmail.com">tusharshaw03@gmail.com</a> or whatsapp +91 9123304755</p>
 
 <p align="left"> Other passions include exploring the cosmos (Astronomy 🌌), tinkering with Arduino and ESP32 💡, and launching model rockets! 🚀</p>
+<img width="4950" height="1238" alt="LinkedIn banner" src="https://github.com/user-attachments/assets/d775456c-99ad-4430-8cc0-477886a4e067" />
 
 <!-- <p align="left">Yup, I am a multilingual Person ;)</p> -->
 
