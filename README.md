@@ -5,7 +5,7 @@
 
 <p align="left"> I'm eager to team up on creative fun projects! </p>
 
-<p align="left"> You can reach me via email at <a href="mailto:tusharshaw03@gmail.com">tusharshaw03@gmail.com</a> or +91 9123304755</p>
+<p align="left"> You can reach me via email at <a href="mailto:tusharshaw03@gmail.com">tusharshaw03@gmail.com</a> or whatsapp +91 9123304755</p>
 
 <p align="left"> Other passions include exploring the cosmos (Astronomy 🌌), tinkering with Arduino and ESP32 💡, and launching model rockets! 🚀</p>
 
